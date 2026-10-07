@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ravavpn.github.io/sitemap.xml
